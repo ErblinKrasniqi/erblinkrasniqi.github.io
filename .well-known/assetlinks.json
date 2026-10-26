@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pinkmanstudio.payload",
+      "sha256_cert_fingerprints": [
+        "56:D8:CD:46:00:01:5D:43:A5:26:3F:CF:C9:D3:1D:86:43:5E:7A:16:F6:D8:8F:D5:F6:51:8B:51:C1:4D:A5:2F"
+      ]
+    }
+  }
+]
