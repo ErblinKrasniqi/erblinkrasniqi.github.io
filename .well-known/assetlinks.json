@@ -7,7 +7,9 @@
       "namespace": "android_app",
       "package_name": "com.pinkmanstudio.payload",
       "sha256_cert_fingerprints": [
-        "56:D8:CD:46:00:01:5D:43:A5:26:3F:CF:C9:D3:1D:86:43:5E:7A:16:F6:D8:8F:D5:F6:51:8B:51:C1:4D:A5:2F"
+        "56:D8:CD:46:00:01:5D:43:A5:26:3F:CF:C9:D3:1D:86:43:5E:7A:16:F6:D8:8F:D5:F6:51:8B:51:C1:4D:A5:2F",
+        "66:E8:0B:83:5A:AA:D0:41:FA:25:4C:F3:FE:B5:69:29:C5:80:92:55:C2:A2:95:1D:CF:40:48:EE:DD:3C:41:19",
+        "C4:8C:FC:5D:4D:DF:65:61:27:E2:B4:DD:96:F4:FA:51:E7:77:35:8D:77:1F:84:4E:78:D3:59:4B:4D:F2:62:BF"
       ]
     }
   }
